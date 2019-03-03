@@ -1,0 +1,50 @@
+###[Q] Insufficient Information
+Welcome to $SITENAME$! Please read [what this site is about](https://$SITEURL$/about) and "[How to ask](https://$SITEURL$/questions/how-to-ask)" before asking a question.
+
+###[A] Another user adding a "Me too!"
+If you have a NEW question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button. If you have sufficient reputation, [you may upvote](//$SITEURL$/privileges/vote-up) the question. Alternatively, "star" it as a favorite and you will be notified of any new answers.
+
+###[C] Too localized
+This question appears to be off-topic because it is too localized.
+
+###[EQ] Improper tagging
+The tags you were using are not appropriate for this question. Please review [What are tags, and how should I use them?](//$SITEURL$/help/tagging)
+
+###[Q] Low-Quality Posts by New User
+It's difficult to tell what is being asked here, and this question cannot be reasonably answered in its current form. Please provide the context, and/or post code samples of what you have done (i.e.: [What have you tried?](http://whathaveyoutried.com))
+
+###Javascript: Don't just fiddle
+Please include a [Minimal, Complete, and Verifiable example (MCVE)](https://$SITEURL$/help/mcve) that demonstrates your problem in your post and **don't just include
+
+###[A]Asking why this is not working on an Answer
+This does not provide an answer to the question. You can [search for similar questions](https://$SITEURL$/search), or refer to the related and linked questions on the right-hand side of the page to find an answer. If you have a related but different question, [ask a new question](https://$SITEURL$/questions/ask), and include a link to this one to help provide context. See: [Ask questions, get answers, no distractions](https://$SITEURL$/tour)
+
+###[Q] Homework
+Unfortunately your question only contains requirements: it is not showing any efforts from your side to solve this problem yourself. Please add your attempts to this question, as this community is about *helping* you to solve your problem yourself, not about *solving* it *for* you. Beyond that: please turn to the [help] to learn how/what to ask here. Thanks!
+
+###[Q] Quality
+Unfortunately, you input lacks in quality regarding its **form**. Such input is very likely to be downvoted and closed. Thus: please use the [edit] link to improve your question. Also note that  *preview* window (together with the help explaining formatting) to improve the quality of your posting. Please note: it is an absolute no-go to use screen shots for code/error messages. Everything that is text should be represented as (formatted/indented) text! Thanks!
+
+###[Q] MCVE
+Questions seeking debugging help ("why isn't this code working?") must include the desired behavior, a specific problem or error and the shortest code necessary to reproduce it in the question itself. Questions without a clear problem statement are not useful to other readers. See: How to create a [mcve]. Use the [edit] link to improve your *question* - do not add more information via comments. Thanks!
+
+###[Q] Asking for help
+Unfortunately your question boils down to "somebody please help me with this". But we do not regard such requests as questions in the scope of this site. Please read [this](https://meta.stackoverflow.com/questions/284236/why-is-can-someone-help-me-not-an-actual-question) carefully to understand why that is. Then consider to either delete this question and putting up a new, more precise question within the scope of this community. Alternatively, you could [edit], rework and improve this question. Thanks!
+
+###[Q] Rec
+Questions asking us to recommend or find a book, tool, software library, tutorial or other off-site resource are off-topic for $SITENAME$ as they tend to attract opinionated answers and spam. Instead, describe the problem and what has been done so far to solve it, or consider deleting *this* question please! Thanks!
+
+###[A] Answers just to say Thanks!
+Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you. Thanks!
+
+###[A] Nothing but a URL (and isn't spam)
+Whilst this may theoretically answer the question, [it would be preferable](//meta.stackoverflow.com/q/8259) to include the essential parts of the answer here, and provide the link for reference. See [here](https://meta.stackexchange.com/a/94027/285661) for instructions how to write *better* "link-based" answers. Thanks!
+
+###[A] Should be comment
+This is really a comment, not an answer. With a bit more rep, [you will be able to post comments](//$SITEURL$/privileges/comment). Thanks!
+
+###[A] Should be question
+If you have another question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button. Please do so now, and delete this answer. Thanks!
+
+###[A] Another user adding a 'Me too!'
+If you have a NEW question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button. If you have sufficient reputation, [you may upvote](//$SITEURL$/privileges/vote-up) the question. Alternatively, "star" it as a favorite and you will be notified of any new answers. Please do so now, and delete this answer. Thanks!
